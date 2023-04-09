@@ -1,0 +1,1 @@
+alter table pessoa add email varchar(100) not null;
