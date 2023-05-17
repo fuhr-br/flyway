@@ -1,5 +1,5 @@
 # Versinamento de banco de dados com Flyway
-##  Esta API mostra um exemplo de implementação do Flyway em java com ScrpingBoot
+##  Esta API mostra um exemplo de implementação do Flyway em java com SpringBoot
 ### Flyway é uma ferramenta de migração e versionamento de banco de dados, que permite aos desenvolvedores gerenciar e automatizar alterações no esquema do banco de dados em projetos de software.
 
 [Saiba mais: por que utilizar e como o Flyway funciona](https://flywaydb.org/documentation/getstarted/why "Link para Documentação oficial - Flyway")
